@@ -1,0 +1,29 @@
+.nik{
+    border: solid 1px gray;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.nik2{
+    border: solid 1px gray;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: -29px;
+}
+.nik3{
+    border: solid 1px gray;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 360px;
+    margin-top: -29px;
+}
